@@ -3,6 +3,9 @@
 This project implements two classes — **Rectangle** and **Square** — to practice **object-oriented programming in Python**.  
 It includes functionality for calculating dimensions, drawing ASCII-art shapes, and determining how many times one shape can fit inside another.  
 
+It was created as part of my **Scientific Computing with Python Certification**.  
+👉 [View my certification here](https://freecodecamp.org/certification/lucawaldvogel/scientific-computing-with-python-v7)
+
 ---
 
 ## ✨ Features
